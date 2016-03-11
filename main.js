@@ -37,3 +37,11 @@ for (var i = 0; i<questions.length; i++){
 }
 
 printHTML();
+
+var shanghai = {
+    population: 14.35e6,
+    longitude: '31.2000 N',
+    latitude: '121.5000 E',
+    country: 'CHN'
+};
+
